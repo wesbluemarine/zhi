@@ -1,0 +1,31 @@
+# Zhi Colors for Alacritty
+
+colors:
+  # Default colors
+  primary:
+    background: '0xffffaf'
+    foreground: '0x2a2c2b'
+
+  # Cursor colors
+  #
+  # These will only be used when the `custom_cursor_colors` field is set to `true`.
+  cursor:
+    text: '0x2a2c2b'
+    cursor: '0x1f2328'
+
+  # Normal colors
+  normal:
+    black: '0x2a2c2b'
+    red: '0x57021e'
+    green: '0x1e5702'
+    yellow: '0xa49b09'
+    blue: '0x021e57'
+    magenta: '0x8250df'
+    cyan: '0x2c6565'
+    white: '0xfbf7b7'
+
+  # Bright colors
+  bright:
+    green: '0x45712e'
+    yellow: '0x938b08'
+    white: '0x2a2c2b'
